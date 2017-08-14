@@ -102,7 +102,7 @@ catkin_package(
 #  INCLUDE_DIRS include
   LIBRARIES img_classif_msgs_lcmtypes
 #  CATKIN_DEPENDS other_catkin_pkg
-  DEPENDS system_lib lcm_catkin
+  DEPENDS lcm_catkin
 )
 
 ###########
